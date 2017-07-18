@@ -1,4 +1,4 @@
-package com.mkyong.core.utils;
+package com.sample.antexample;
 
 import java.util.Date;
 
